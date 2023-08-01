@@ -31,6 +31,53 @@ while( evenNumber < 456 ){
 
 
 
+/*
+// Task 3) Display all even number between 412 - 456
+let oddNumber = 581;
+while( oddNumber < 623 ){
+    console.log(oddNumber);
+    oddNumber += 2;
+}
+*/
+
+
+
+/*
+// Task 6) Display all the topic you learn
+
+let iLearned = ['HTML5', 'CSS3', 'Tailwind', 'Daisy', 'JavaScript', 'etc......'];
+for(let i = 0; i < iLearned.length; i++){
+    console.log(iLearned[i]);
+}
+*/
+
+
+/*
+// Task 7) Display all mobile phone from a array by while loop
+
+let mobile = ['Samsung', 'Nokia', 'Blackberry', 'Redmi'];
+let mobileItemLength = mobile.length;
+let x = 0;
+while(x < mobileItemLength){
+    console.log(mobile[x++]);
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

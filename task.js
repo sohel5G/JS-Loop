@@ -63,6 +63,28 @@ while(x < mobileItemLength){
 }
 */
 
+/*
+// Task 8) make a loop 30 - 86 but stop when go to 48
+for(let x = 30; x <= 86; x++){
+    if( x == 49){
+        break;
+    }
+    console.log(x);
+}
+*/
+
+
+/*
+// Task 9) Display all the book price lower then 200tk
+
+var myBooks = [150, 170, 70, 120, 90, 130, 200, 300, 250, 211, 160, 290, 411];
+for( var x = 0; x < myBooks.length; x ++){
+    if( myBooks[x] >= 200){
+        continue;
+    }
+    console.log(myBooks[x]);
+}
+*/
 
 
 

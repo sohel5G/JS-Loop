@@ -87,23 +87,38 @@ for( var x = 0; x < myBooks.length; x ++){
 */
 
 
-
+/*
 var i = 0;
-
 for(; i < 5; i++){
-   
 }
 console.log(i);
+*/
 
 
+/*
+smartphone = { 
+    brand: "iPhone", 
+    model: "13" 
+};
+console.log(smartphone.brand);
+
+*/
 
 
+/*
+function add(num1, num2){
+    var total = num1 + ' And ' + num2;
+    return total;
+}
+console.log(add(100, 200));
+*/
 
 
-
-
-
-
-
+function myFunction(){
+    return 'return one'
+    return 'return two'
+    return 'return three'
+}
+console.log(myFunction());
 
 
